@@ -1,0 +1,94 @@
+body{
+  text-align: center;
+  background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+.logo{
+  text-align: center;
+
+}
+.logoimg{
+  width: 30rem;
+
+}
+
+.start{
+  background-color: #FFE6E6;
+  margin-left:auto;
+  margin-right:auto;
+  width: 70%;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.container{
+  margin-top:20px;
+}
+
+/* prior minute */
+#priormin{
+  margin-top:20px;
+}
+.pmin{
+  background-color: #FDD2BF;
+  margin-left:auto;
+  margin-right:auto;
+  width: 70%;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+/* agenda */
+.Agenda{
+  margin-top:20px;
+}
+/* Business Arising */
+
+#business{
+  margin-top:20px;
+}
+
+.buss{
+  background-color: #FFE6E6;
+  margin-left:auto;
+  margin-right:auto;
+  width: 70%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+/* Master of Registry */
